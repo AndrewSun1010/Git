@@ -10,15 +10,15 @@
 
 **1.在github上创建仓库**
 
-![img](picture\1707375264974.jpg)
+![img](.\picture\1707375264974.jpg)
 
 **2.在本地新建文件夹并git init初始化本地仓库**
 
-![img](picture\Snipaste_2024-02-08_14-56-13.png)
+![img](.\picture\Snipaste_2024-02-08_14-56-13.png)
 
 **3.添加远程仓库**
 
-![img](picture\Snipaste_2024-02-08_14-58-16.png)
+![img](.\picture\Snipaste_2024-02-08_14-58-16.png)
 
 **4.修改后提交**
 
@@ -28,4 +28,4 @@ git commit -m ''
 
 第一次提交需与远程仓库关联，之后可以直接git push origin master
 
-![img](picture\Snipaste_2024-02-08_15-00-02.png)
+![img](.\picture\Snipaste_2024-02-08_15-00-02.png)
